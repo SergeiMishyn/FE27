@@ -1,0 +1,629 @@
+@media (max-width:1200px) {
+    
+    .container{
+        width: 100%; 
+    }
+    .header__info{
+        margin-bottom: 70px;
+    }
+    .logo-MoGo img{
+        width: 67px;
+        height: 18px;
+    }
+    .item-list li a{
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .header__info-title{
+        font-size: 48px;
+        line-height: 70px;
+        margin-bottom: 42px;
+    }
+    .header__info-welcome{
+        font-size: 96px;
+        line-height: 117px;
+        width: 607px;
+        margin: 0 auto 55px;
+    }
+    .header .separator{
+        width: 115px;
+        margin-bottom: 50px;
+    }
+    .header .btn{
+        width: 318px;
+        height: 54px;
+        margin-bottom: 40px;
+    }
+    .page{
+        height: 40px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .pages{
+       
+    }
+    .pages b{
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .about{
+        padding: 50px 0px;
+    }
+
+    h2{
+        font-size: 24px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+    h3{
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .separator{
+        width: 150px;
+    }
+    .discription{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+   
+    .about__img__super{
+        height: 288px;
+    }
+
+    .about__img__super:hover .team1-text{
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    .about__img__super:hover .about__img__super-icon {
+        height: 32px;
+        width: 32px;
+        background-size: contain;
+        margin: 90px auto 15px;
+    }
+
+
+
+
+
+    .line-numbers{
+        height: 168px;
+        
+    }
+    .line-numbers__blocks-item-num{
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .line-numbers__blocks-item-text{
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+
+
+
+    .services {
+        padding: 50px 0 40px;
+    }
+    .services__list{
+        grid-gap: 37px;
+    }
+
+    .services__list__item-icon{
+        width: 50px;
+        height: 50px;
+    }
+
+
+    .services__list__item{
+    justify-content: space-evenly;
+    }
+    .services__list__item-description{
+    justify-content: space-around
+    }
+
+    .services__list__item-description-name{
+        font-size: 18px;
+        line-height: 21px;  
+    }
+    .services__list__item-description-text{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .design{
+        height: 598px;
+    }
+
+
+    .design__img-tablet{
+        width: 525px;
+        height: 420px;
+    }
+
+   
+
+    .accordion-button{
+        font-size: 18px;
+        line-height: 21px;
+        height: 80px;
+    }
+    .accordion-body{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .photography::before{
+        width: 33px;
+        height: 33px;
+    }
+    .creativity::before{
+        width: 33px;
+        height: 33px;
+    }
+    .we-do-design:before{
+        width: 33px;
+        height: 33px;
+    }
+
+
+    .line__rewiews{
+        height: 170px;
+        padding: 0px;
+        display: flex;
+        align-items: center;
+    }
+    .line__rewiews__list{
+        justify-content: space-around;
+    }
+    .line__rewiews__list-img{
+        width: 116px;
+        height: 116px; 
+    }
+    .line__rewiews__list__comment{
+        width: 660px;
+    }
+
+    .line__rewiews__list__comment-discription{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .line__rewiews__list__comment-person-name{
+        font-size: 24px;
+        line-height: 35px;
+    }
+
+
+    .line__rewiews__list__comment-person-name::before{
+        width: 47px;
+    }
+
+
+    .team{
+        padding: 80px 0 60px;
+    }
+    .team__list__item{
+        justify-content: space-evenly;
+    }    
+    .team__list__item-img{
+        width: 318px;
+        height: 360x;
+        object-fit: cover;
+    }
+    .team__list__item-img img{
+        width: 318px;
+        height: 360x;
+        object-fit: cover;
+    }
+    .team__list__item-img:hover .team__list__item-img-gradient .team__list__item-img-gradient-ico{
+        width: 36px;
+        height: 36px;
+    }
+    .team__list__item-name{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .team__list__item-profession{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+
+    .partners{
+        height: 143px;
+    }
+
+    .partners__list-item{
+        height: 47px;
+        width: 47px;
+    }
+    .line__rewiews-img{
+        height: 254px;
+    }
+    .line__rewiews-img__list-img{
+        width: 115px;
+        height: 115px;
+    }
+
+
+    .clients{
+        height: 630px;
+        padding: 30px 0 20px;
+    }
+    .clients .separator{
+        margin-bottom: 47px;
+    }
+    .clients__list__item{
+        height: 165px;
+        justify-content: space-evenly;
+    }
+    .clients__list__item-img{
+        width: 89px;
+        height: 89px;
+    }
+    .clients__list__item-details-name{
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 10px;
+    }
+    .clients__list__item-details-possition{
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 20px;
+    }
+    .clients__list__item .separator{
+        margin-bottom: 42px;
+    }
+    .clients__list__item-details-comment{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .clients__list{
+
+        grid-gap: 40px 40px;
+    }
+    .stories{
+        padding: 83px 0 50px
+    }
+
+    
+
+    .stories__list__item-img-date{
+        font-size: 14px;
+        line-height: 20px;
+        width: 68px;
+        height: 68px;
+    }
+
+    .stories__list__item span{
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .stories__list__item-title{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .stories__list__item-discription{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    
+    .stories__list__item-activity-views:before{
+        width: 26px;
+        height: 15px;
+    }
+    .stories__list__item-activity-comments:before{
+        width: 26px;
+        height: 15px;
+    }
+
+    .line__blog{
+        height: 156px;
+    }
+
+    .line__blog-ico{
+        width: 29px;
+        height: 29px;    
+    }
+
+
+}
+
+
+@media (max-width:1024px){
+    .about__img{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .team__list {
+        
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 30px;
+    }
+    .team__list__item-img{
+        width: 100%;
+        height: 100%;
+    }
+    .stories__list{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 30px;
+     
+    }
+    .services__list{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 74px;
+       
+    }
+}
+
+
+
+
+@media (max-width:768px){
+    .about__img{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .team__list {
+        
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 30px;
+    }
+    .team__list__item-img{
+        width: 100%;
+        height: 100%;
+    }
+    .stories__list{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 30px;
+     
+    }
+    .services__list{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 74px;
+       
+    }
+    .we-do__list {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 30px;
+    }
+    .clients__list {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 0px;
+    }
+
+    .line-numbers{
+        height: 374px;
+    }
+    .line-numbers__blocks{
+        height: 100%;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .work__gallery{
+        display: grid;
+        grid-template-columns:repeat(2,1fr);
+        grid-template-areas:"work__gallery__img-1 work__gallery__img-3 "
+                            "work__gallery__img-2 work__gallery__img-3 "
+                            "work__gallery__img-3 work__gallery__img-3 "
+                            "work__gallery__img-4 work__gallery__img-6 "
+                            "work__gallery__img-7 work__gallery__img-3 "
+    }
+
+
+    .about__img__super:hover .about__img__super-gradient {
+        position: absolute;
+        content: "";
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(360deg, rgba(237, 215, 137, 0.9) 0%, rgba(233, 130, 131, 0.9) 100%);
+    
+    }
+
+
+
+
+    .item-list{
+        display: none;
+    }
+
+    .header__info{
+        margin-bottom: 40px;
+    }
+    
+    .header__info-title{
+        font-size: 36px;
+        line-height: 52px;
+    }
+    .header__info-welcome{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 59px;
+        width: 290px;
+        margin: 0 auto 55px;
+    }
+    .header .separator{
+        width: 49px;
+        margin-bottom: 50px;
+    }
+    .header .btn{
+        width: 285px;
+        height: 55px;
+        margin-bottom: 40px;
+    }
+    .page{
+        display: none;
+    }
+    .pages{
+       
+    }
+    .pages b{
+        display: none;
+    }
+
+   
+
+
+
+   
+   
+  
+
+    .line-numbers__blocks-item{
+        height: 100%;
+        border: 0px;
+        border-bottom: 2px solid white;
+    }
+    .line-numbers__blocks-item:last-child{
+        border: 0px;
+    }
+
+    .services__list__item {
+        justify-content: center;
+
+    }
+    .services__list__item-icon {
+        margin-right: 20px;
+    }
+
+
+
+
+
+    .design{
+        height: 514px;
+    }
+
+
+    .design__img-tablet{
+        width: 286px;
+        height: 230px;
+    }
+    .design .separator {
+        margin-bottom: 105px;
+    }
+
+    .accordion-button{
+        font-size: 18px;
+        line-height: 21px;
+        height: 80px;
+    }
+    .accordion-body{
+        font-size: 14px;
+        line-height: 16px;
+    }
+   
+    .photography::before{
+        right: 80%;
+    }
+     .creativity::before{
+        right: 80%;
+    }
+    .we-do-design::before{
+        right: 80%;
+    }
+
+    .line__rewiews .container {
+        padding: 0px;
+    }
+    .line__rewiews{
+        height: 170px;
+        padding: 0px;
+        display: flex;
+        align-items: center;
+    }
+    .line__rewiews__list{
+        justify-content: space-around;
+    }
+    .line__rewiews__list-img{
+        display: none;
+    }
+    
+    .line__rewiews__list__comment-person-name {
+        margin-left: 15%;
+    }
+
+  
+    .line__rewiews__list__comment-person-name::before{
+        width: 47px;
+    }
+
+
+   
+    
+       
+    .team__list__item-img{
+        width: 318px;
+        height: 360x;
+        object-fit: cover;
+    }
+    .team__list__item-img img{
+        width: 318px;
+        height: 360x;
+        object-fit: cover;
+        object-position: center;
+    }
+  
+    .team__list__item-img:hover .team__list__item-img-gradient {
+        top: 0px;
+        left: 0px;
+    }
+
+
+    .partners{
+        height: 143px;
+    }
+
+    .partners__list-item{
+        height: 47px;
+        width: 47px;
+    }
+
+
+
+
+    
+
+    .line__rewiews-img{
+       display: none;
+    }
+    .line__rewiews-img__list-img{
+        width: 115px;
+        height: 115px;
+    }
+    .line__rewiews__list::before{
+       display: none;
+    }
+    .line__rewiews__list::after{
+        display: none;
+    }
+
+
+    .clients{
+        height: 1650px;
+        padding: 30px 0 20px;
+    }
+    .clients__list__item{
+    
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .clients__list__item-details{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+}

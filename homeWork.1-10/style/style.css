@@ -66,6 +66,7 @@ a {
 }
 .item-list ul li {
     height: 75px;
+    text-align: center;
 }
 .item-list li a {
     width: 114px;
@@ -77,6 +78,8 @@ a {
     font-size: 14px;
     line-height: 19px;
     color: #FFFFFF;
+    text-align: center;
+    
 }
 .item-list li a:hover {
     background: #EC7979;
